@@ -1,6 +1,6 @@
 ---
 layout: default # post
-title:  "Welcome to Jekyll!"
+title:  "Velcome to Jekyll!" # typo is on purpose
 date:   2020-02-08 02:42:28 -0500
 categories: jekyll update
 ---
